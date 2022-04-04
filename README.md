@@ -1,3 +1,3 @@
 # Projetinho bala
  
- Assets: https://jesse-m.itch.io/jungle-pack
+ <a href = "https://jesse-m.itch.io/jungle-pack" target = "_blank">Assets
