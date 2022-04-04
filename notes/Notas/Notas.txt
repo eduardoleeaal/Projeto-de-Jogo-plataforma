@@ -1,0 +1,4 @@
+1			-->	Criando um heroi
+	1.1		--> Importando sprite
+	1.2		--> Criando objeto
+	
