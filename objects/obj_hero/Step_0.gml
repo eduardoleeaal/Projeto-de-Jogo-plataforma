@@ -2,17 +2,17 @@
 // You can write your code in this editor
 
 
-var right = keyboard_check(ord("D"));
-var left = keyboard_check(ord("A"));
-var up = keyboard_check_pressed(vk_space);
+var _right = keyboard_check(ord("D"));
+var _left = keyboard_check(ord("A"));
+var _up = keyboard_check_pressed(vk_space);
 
-var move = (right - left);
+var move = (_right - _left);
 
 hsp = move * velocidade;
 
 vsp += gravt;
 
-if(place_meeting(x, y + 1, obj_floor) and up){
+if(place_meeting(x, y + 1, obj_floor) and _up){
 	vsp -= 7;
 }
 

@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_hero_jump","order":2,"path":"sprites/spr_hero_jump/spr_hero_jump.yy",},
+    {"name":"spr_hero_run","order":1,"path":"sprites/spr_hero_run/spr_hero_run.yy",},
+    {"name":"spr_background2","order":1,"path":"sprites/spr_background2/spr_background2.yy",},
+  ],
+}
